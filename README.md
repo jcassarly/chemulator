@@ -41,4 +41,4 @@ If you want the source code, its all in the src folder, each folder in there is 
 
 ## Other Notes
 
-The formula sheets are from my high school chemistry class' periodic table, just copied into the program when I was making it for my reference.
+The info sheets are from my high school chemistry class' periodic table, just copied into the program when I was making it for my reference.
