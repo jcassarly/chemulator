@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <Events>
+    <EventHandler event="windowClosing" listener="java.awt.event.WindowListener" parameters="java.awt.event.WindowEvent" handler="formWindowClosing"/>
+  </Events>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLabel1" pref="423" max="32767" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+              <Component id="jScrollBar1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jLabel1" max="32767" attributes="0"/>
+          <Component id="jScrollBar1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;         &lt;h2&gt;Solubility Rules of Salts in Water&lt;/h2&gt;     &lt;p&gt;         &lt;h4&gt;1. Most nitrate (NO3-) salts are soluble.&lt;/h4&gt;         &lt;h4&gt;2. Most salts containing the alkali metal ions (Li+, Na+, K+, Cs+, Rb+) and the ammonium ion(NH4+) are soluble&lt;/h4&gt;         &lt;h4&gt;3. Most chloride, bromide, and iodide salts are soluble.  Notable exceptions are salts containing the ions Ag +,  Pb 2+, and Hg 2+.&lt;/h4&gt;         &lt;h4&gt;4.Most sulfate salts are soluble.  Notable exceptions are BaSO4, PbSO4, Hg2SO4, and CaSO4&lt;/h4&gt;         &lt;h4&gt;5. Most hydroxide salts are only slightly soluble.  The important soluble hydroxides are NaOH and KOH.  The compounds Ba(OH)2, Sr(OH)2, and Ca(OH)2 are marginally soluble.&lt;/h4&gt;         &lt;h4&gt;6. Most sulfide(S   2-), carbonate(CO3   2-), chromate(CrO4   2-) and phosphate(PO4   3-) salts are only slightly soluble.&lt;/h4&gt;     &lt;/p&gt; &lt;/html&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JScrollBar" name="jScrollBar1">
+    </Component>
+  </SubComponents>
+</Form>
